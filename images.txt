@@ -1,7 +1,7 @@
 #gitlab/gitlab-ce
 #jenkins/jenkins:2.457
-#goharbor/harbor-light:v2.0.0
-openjdk:17-jdk-alpine
+goharbor/harbor-light:v2.4.0
+#openjdk:17-jdk-alpine
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
